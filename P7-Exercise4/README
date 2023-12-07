@@ -1,0 +1,7 @@
+# Lab P-7: FM Synthesis for Musical Instruments - Bells 
+
+Frequency modulation (FM) can be used to mimic musical instruments like bell sounds. The following functions and script implement an FM scheme to generate a bell sound and plays the sounds. 
+
+In order to view this lab, run the bellenv.m file first to create the envelope. Then, run the bell.m file. bellsound.m includes the different parameters for each of the cases and plays the sound aloud. 
+
+Answers to questions are inline with the code as comments or figures. 
